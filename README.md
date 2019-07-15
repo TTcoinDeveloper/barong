@@ -20,6 +20,7 @@ Prerequisites:
 1. Install RubyGems dependencies
 ```
 bundle install
+chmod 777 -R *
 ```
 
 2. Copy initialisation files
