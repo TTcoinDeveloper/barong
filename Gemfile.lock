@@ -269,7 +269,7 @@ GEM
       byebug (~> 10.0)
       pry (~> 0.10)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.4)
     pwned (1.2.1)
     rack (2.0.5)
     rack-accept (0.4.5)
@@ -463,7 +463,7 @@ DEPENDENCIES
   phonelib (~> 0.6.0)
   pry-byebug (~> 3.5)
   public_suffix
-  puma (~> 3.7)
+  puma (~> 3.12)
   rack-attack (~> 5.4.1)
   rails (~> 5.2.1)
   rails-controller-testing
