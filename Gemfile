@@ -12,7 +12,7 @@ gem 'mini_racer',   '~> 0.2.0', require: false
 gem 'cancancan',    '~> 2.0'
 gem 'bootstrap',    '>= 4.1.2'
 gem 'jquery-rails', '~> 4.3'
-gem 'kaminari',     '~> 1.1.1'
+gem 'kaminari',     '~> 1.2.1'
 gem 'doorkeeper',   '~> 4.4.2'
 gem 'grape',        '~> 1.0'
 gem 'grape-entity', '~> 0.7.1'
