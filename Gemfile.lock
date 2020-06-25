@@ -271,7 +271,7 @@ GEM
     public_suffix (3.0.3)
     puma (3.12.0)
     pwned (1.2.1)
-    rack (2.0.5)
+    rack (2.2.3)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-attack (5.4.1)
