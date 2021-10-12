@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '~> 5.2.1'
 gem 'mysql2',       '~> 0.4'
-gem 'puma',         '~> 3.7'
+gem 'puma',         '~> 4.3'
 gem 'sassc-rails',  '~> 1.3'
 gem 'uglifier',     '~> 4'
 gem 'devise',       '~> 4.4'
